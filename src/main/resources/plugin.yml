@@ -1,0 +1,6 @@
+name: WXNotice
+main: cn.lanink.wxnotice.WXNotice
+version: "1.0.0-SNAPSHOT"
+api: ["1.0.0"]
+load: POSTWORLD
+author: "LT_Name"
